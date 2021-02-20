@@ -6,8 +6,3 @@ Como bravos representantes de la comunidad de Seresco allá vamos, hacha en mano
 
 En este workshop veremos como desplegar rapidamente un entorno de test para probar algunas interesantes tecnologías de actualidad. 
 Usaremos control de versiones con GIT y contenedores docker para crear rápidamente un entorno de pruebas con servicios de mensajería y una web de momnitorización de datos con las que visualizar en tiempo real datos domóticos de un hogar.
-
-
-Bla, bla, bla...
-
-
