@@ -6,3 +6,12 @@ Como bravos representantes de la comunidad de Seresco allá vamos, hacha en mano
 
 En este workshop veremos como desplegar rapidamente un entorno de test para probar algunas interesantes tecnologías de actualidad. 
 Usaremos control de versiones con GIT y contenedores docker para crear rápidamente un entorno de pruebas con servicios de mensajería y una web de momnitorización de datos con las que visualizar en tiempo real datos domóticos de un hogar.
+
+
+
+
+## Enlaces
+
+[Máquina Virtual de test Ubuntu 18.04](https://mega.nz/file/4T5WiBKR#VuEKsHdwuEkpcr35GilkjZIRK2A36FG1-BqS72ovZQU) - 989 MB
+
+[Máquina Virtual de test con Docker Ubuntu 18.04](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB
