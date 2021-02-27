@@ -14,4 +14,4 @@ Usaremos control de versiones con GIT y contenedores docker para crear rápidame
 
 [Máquina Virtual de test Ubuntu 18.04](https://mega.nz/file/4T5WiBKR#VuEKsHdwuEkpcr35GilkjZIRK2A36FG1-BqS72ovZQU) - 989 MB
 
-[Máquina Virtual de test con Docker Ubuntu 18.04](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB
+[Máquina Virtual de test Ubuntu 18.04 - con Docker](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB

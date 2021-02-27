@@ -1,6 +1,6 @@
 ## 1.  Importación de la máquina virtual
 * Instalar [VirtualBox](https://www.virtualbox.org/)
-* Descargar la imagen de la máquina virtual Ubuntu para VirtualBox desde [este enlace](https://mega.nz/fm/ZK4AWaIQ) e [importarla](https://descargarmaquinasvirtuales.com/instalar-una-maquina-virtual-en-virtualbox/)
+* Descargar la imagen de la máquina virtual Ubuntu para VirtualBox desde [este enlace](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) e [importarla](https://descargarmaquinasvirtuales.com/instalar-una-maquina-virtual-en-virtualbox/)
 * Deberíamos tener en nuestro virtualbox una nueva máquina disponible *"Ubuntu Server 1804 con docker"*
 * Esta máquina virtual tiene la distribución de Linux instalada Ubuntu Server 18, en la cual realizaremos la instalación y configuración del software usado en este taller.
 * El usuario y contraseña para acceder a la máquina es *vmtest* / *vmtest01*
