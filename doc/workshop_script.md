@@ -1,4 +1,7 @@
-<img width="3%" src="images/forotecnoloxico.png">
+<p align="center" width="100%">
+    <img width="15%" src="images/forotecnoloxico.png">
+</p>
+
 Workshop Foro Tecnolóxico 2021
 ==============================
 
@@ -7,6 +10,9 @@ Workshop Foro Tecnolóxico 2021
 * Quienes somos
 * Qué es Seresco
 * Qué vamos a hacer en este Workshop
+
+Este workshop del foro tecnológico 2021 no está pensado para usuarios avanzados de las tecnologías que aquí veremos, simplemente es una introducción para entender de forma muy sencilla ciertos conceptos que utilizamos en el trabajo que realizamos diariamente. No profundizaremos en aspectos técnicos más allá de los necesarios para este workshop, ya que a nivel de programación hay muchos tutoriales paso a paso sobre cómo utilizar cualquiera de las tecnologías que veremos, incluso un tutorial realizado por los creadores de este workshop quedará disponible para su consulta y descarga por parte de los asistentes.
+
 * Usaremos Git/GitHub, Docker, Broker mqtt, JS y Python ...
 
 ### 2 Requisitos Previos
@@ -40,10 +46,6 @@ Una mejor alternativa sería hacer un fork del repositorio en nuestro usuario de
 * Iniciar la máquina Virtual (Máquina Virtual de test Ubuntu 18.04 - con Docker)
 
 ![iniciar máquina virtual](images/iniciar_maquina_virtual.png?raw=true "Iniciar la máquina virtual")
-
-<p align="center" width="100%">
-    <img width="50%" src="images/iniciar_maquina_virtual.png"> 
-</p>
 
 * Comados básicos de Docker
 
