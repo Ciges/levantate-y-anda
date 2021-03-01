@@ -37,9 +37,29 @@ Una mejor alternativa sería hacer un fork del repositorio en nuestro usuario de
 ### 4 Docker
 
 * Qué es Docker
+Docker ya está instalado
 * Ventajas de uso
+
 * Contenedor
+
 * Imagen
+
+* Ejecutar hola-mundo container
+
+* Portainer
+
+Herramienta ligera y open-source de gestión de contenedores sobre Docker.
+Ofrece una interfazgráfica para gestionar eñ host Docker sobre cualquier navegador.
+
+Aprovechamos para visitar el repositorio de imagenes [Docker Hub](https://hub.docker.com/r/portainer/portainer) y ver la diferentes versiones disponibles de esta herramienta. Elegimos como versión a instalar `:latest`.
+
+```
+docker run -d --name portainer -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer:latest
+```
+
+Accederemos con cualquier navegador en la dirección `localhost:9000` (Recordad abrir el puerto en la máquina virtual)
+
+Es intereante que este contenedor se pueda iniciar cada vez que se arranca la máquina virtual. Para ello deberemos añadir `---restart always`.
 
 ### 5 Tarea
 
