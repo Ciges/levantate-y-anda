@@ -32,10 +32,22 @@ Una vez instalado VirtualBox descargamos la máquina virtual "Ubuntu Server 1804
 
 El software mencionado existe para los sistemas operativos más habituales así que se puede llevar a cabo tanto en Linux, como en Windows, como en macOS.
 
+[Máquina Virtual de test Ubuntu 18.04](https://mega.nz/file/4T5WiBKR#VuEKsHdwuEkpcr35GilkjZIRK2A36FG1-BqS72ovZQU) - 989 MB
+
+[Máquina Virtual de test Ubuntu 18.04 - con Docker](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB
+
 ### 3 Control de versiones: Git
 
 * Qué es Git
+
+`Git` es una herramienta que realiza la función del control de versiones de código de forma distribuida. Los Sistemas de Control de Versiones pueden ser Centralizados (VCS), como por ejemplo `Subversion`, en la que se ha confiado para albergar el histórico de revisión de versiones en un punto centralizado, lo cual puede llegar a suponer una merma de trabajo si perdemos la conectividad de la red.
+
+Los Sistemas de Control de Versiones Distribuidos (DVCS) salvan este problema. Algunos ejemplos de sistemas distribuidos, aparte de `Git`, son `Mercurial`, `Bazaar` o `Darcs`. En este tipo de herramientas, los clientes replican completamente el repositorio en máquina local.
+
 * Diferencia entre Git y GitHub
+
+`GitHub` es un repositorio que ofrece un grupo de servicios que facilitan el uso de `Git`, como por ejemplo hosting de proyectos, facilidades de colaboración, reviews de código, perfiles personales, pull requests, issues, etc.
+
 > #### Clonar el proyecto
 Tenemos los archivos de configuración y la documentación del taller en un repositorio público en Github.
 
@@ -49,8 +61,33 @@ Una mejor alternativa sería hacer un fork del repositorio en nuestro usuario de
 ### 4 Docker
 
 * Qué es Docker
+
+Es muy probable que, de una u otra forma, hayas escuchado hablar de `Docker` en algún contexto: En una conferencia, en boca de algún compañero, en la facultad...
+Esta tecnología está relacionada con el área de sistemas, con los entornos en que se ejecutan las aplicaciones de software. El motivo de traerlo a este workshop es para sacar partido de una de las características que han hecho tan exitosa y extendida a esta herramienta: la facilidad de crear __entornos de trabajo__. De otro modo este proceso requiere de instalaciones, configuraciones y un proceso más complejo.
+
+La idea detrás de docker es crear CONTENDORES ligeros y portables para las aplicaciones de software y que van a poder ejecutarse en cualquuier máquina (con Docker instalado previamente) independientemente del Sistema.
+
+La comunidad Docker de open source trabaja para mejorar estas tecnologías y beneficiar a todos los usuarios de forma gratuita.
+
 Docker ya está instalado
+
+* Diferencia con la máquina virtual
+
+Realmente el concepto es algo similar, aunque en esencia un contenedor no es lo mismo que una máquina virtual. Un contenedor es más ligero, ya que mientras que a una máquina virtual es necesario instalarle un sistema operativo para funcionar, un contenedor de Docker funciona utilizando el sistema operativo que tiene la máquina en la que se ejecuta el contenedor.
+
+Docker toma los recursos más básicos, que no cambian de un ordenador a otro del sistema operativo de la máquina en la que se ejecuta. Y los aspectos más específicos del sistema que pueden dar más problemas a la hora de llevar el software de un lado a otro, se meten en el interior del contenedor.
+
 * Ventajas de uso
+
+Docker está diseñada para beneficiar a desarrolladores, testers, administradores de sistemas.
+
+Modularidad, El enfoque Docker para la creación de contenedores se centra en la capacidad de tomar una parte de una aplicación, para actualizarla o repararla, sin necesidad de tomar la aplicación completa
+
+Capas, Cada archivo de imagen de Docker se compone de una serie de capas. Estas capas se combinan en una sola imagen. Una capa se crea cuando la imagen cambia. Cada vez que un usuario especifica un comando, como ejecutar o copiar, se crea una nueva capa. Docker reutiliza estas capas para construir nuevos contenedores, lo cual hace mucho más rápido el proceso de construcción.
+
+Restauración, Probablemente la mejor parte de la creación de capas es la capacidad de restaurar. Toda imagen tiene capas. La capacidad de restaurar es increiblemente rápida.
+
+Rápida implementación, Los contenedores basados en Docker pueden reducir el tiempo de implementación a segundos. Al crear un contenedor para cada proceso, puede compartir rápidamente los procesos similares con nuevas aplicaciones.
 
 * Contenedor
 
