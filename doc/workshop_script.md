@@ -19,8 +19,18 @@ Este workshop del foro tecnológico 2021 no está pensado para usuarios avanzado
 
 ### 2 Requisitos Previos
 
-* VirtualBox instalado
-* Imagen de máquina virtual Ubuntu 18.04
+Los asistente deberán instalar el siguiente software, que utilizaremos en el workshop
+- Gestor de máquinas virtuales [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- Cliente del sistema de control de versiones [GIT](https://git-scm.com/downloads)
+
+Y opcionalmente recomendamos
+- Algún cliente gráfico de GIT como [SublimeMerge](https://www.sublimemerge.com/)
+- Algún editor de código, como [SublimeText](https://www.sublimetext.com/) o [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+Una vez instalado VirtualBox descargamos la máquina virtual "Ubuntu Server 1804 don docker" desde este [enlace](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) (es un fichero muy grande, de más de 1Gb) y la importamos en VirtualBox.
+
+
+El software mencionado existe para los sistemas operativos más habituales así que se puede llevar a cabo tanto en Linux, como en Windows, como en macOS.
 
 ### 3 Control de versiones: Git
 

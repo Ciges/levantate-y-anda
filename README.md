@@ -8,10 +8,17 @@ En este workshop veremos como desplegar rapidamente un entorno de test para prob
 Usaremos control de versiones con GIT y contenedores docker para crear rápidamente un entorno de pruebas con servicios de mensajería y una web de momnitorización de datos con las que visualizar en tiempo real datos domóticos de un hogar.
 
 
+## Requisitos previos para la reálización del taller
+
+Los asistente deberán instalar el siguiente software, que utilizaremos en el workshop
+- Gestor de máquinas virtuales [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- Cliente del sistema de control de versiones [GIT](https://git-scm.com/downloads)
+
+Y opcionalmente recomendamos
+- Algún cliente gráfico de GIT como [SublimeMerge](https://www.sublimemerge.com/)
+- Algún editor de código, como [SublimeText](https://www.sublimetext.com/) o [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+Una vez instalado VirtualBox descargamos la máquina virtual "Ubuntu Server 1804 don docker" desde este [enlace](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) (es un fichero muy grande, de más de 1Gb) y la importamos en VirtualBox.
 
 
-## Enlaces
-
-[Máquina Virtual de test Ubuntu 18.04](https://mega.nz/file/4T5WiBKR#VuEKsHdwuEkpcr35GilkjZIRK2A36FG1-BqS72ovZQU) - 989 MB
-
-[Máquina Virtual de test Ubuntu 18.04 - con Docker](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB
+El software mencionado existe para los sistemas operativos más habituales así que se puede llevar a cabo tanto en Linux, como en Windows, como en macOS.
