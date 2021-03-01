@@ -22,6 +22,7 @@ Este workshop del foro tecnológico 2021 no está pensado para usuarios avanzado
 Los asistente deberán instalar el siguiente software, que utilizaremos en el workshop
 - Gestor de máquinas virtuales [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - Cliente del sistema de control de versiones [GIT](https://git-scm.com/downloads)
+- Una terminal para abrir consolas en servidores Linux, como [MobaxTerm](https://mobaxterm.mobatek.net/)
 
 Y opcionalmente recomendamos
 - Algún cliente gráfico de GIT como [SublimeMerge](https://www.sublimemerge.com/)
@@ -30,11 +31,8 @@ Y opcionalmente recomendamos
 Una vez instalado VirtualBox descargamos la máquina virtual "Ubuntu Server 1804 don docker" desde este [enlace](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) (es un fichero muy grande, de más de 1Gb) y la importamos en VirtualBox.
 
 
-El software mencionado existe para los sistemas operativos más habituales así que se puede llevar a cabo tanto en Linux, como en Windows, como en macOS.
+El software mencionado existe para los sistemas operativos más habituales, excluyendo em MobaxTerm que es una aplicación Windows. Tanto Linux como MacOS tienen instaladas aplicaciones de terminal en el sistema por defecto.
 
-[Máquina Virtual de test Ubuntu 18.04](https://mega.nz/file/4T5WiBKR#VuEKsHdwuEkpcr35GilkjZIRK2A36FG1-BqS72ovZQU) - 989 MB
-
-[Máquina Virtual de test Ubuntu 18.04 - con Docker](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB
 
 ### 3 Control de versiones: Git
 

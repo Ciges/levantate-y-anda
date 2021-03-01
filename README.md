@@ -22,4 +22,4 @@ Y opcionalmente recomendamos
 Una vez instalado VirtualBox descargamos la máquina virtual "Ubuntu Server 1804 don docker" desde este [enlace](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) (es un fichero muy grande, de más de 1Gb) y la importamos en VirtualBox.
 
 
-El software mencionado existe para los sistemas operativos más habituales.
+El software mencionado existe para los sistemas operativos más habituales, excluyendo em MobaxTerm que es una aplicación Windows. Tanto Linux como MacOS tienen instaladas aplicaciones de terminal en el sistema por defecto.
