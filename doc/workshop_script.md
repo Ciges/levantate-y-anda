@@ -22,6 +22,10 @@ Este workshop del foro tecnológico 2021 no está pensado para usuarios avanzado
 * VirtualBox instalado
 * Imagen de máquina virtual Ubuntu 18.04
 
+[Máquina Virtual de test Ubuntu 18.04](https://mega.nz/file/4T5WiBKR#VuEKsHdwuEkpcr35GilkjZIRK2A36FG1-BqS72ovZQU) - 989 MB
+
+[Máquina Virtual de test Ubuntu 18.04 - con Docker](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) - 1,22 GB
+
 ### 3 Control de versiones: Git
 
 * Qué es Git
