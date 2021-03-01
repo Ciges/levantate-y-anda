@@ -7,8 +7,10 @@ Workshop Foro Tecnolóxico 2021
 
 ### 1 Presentación
 
-* Quienes somos
-* Qué es Seresco
+[Seresco](https://seresco.es/) es una compañía española especializada en soluciones de software y servicios en Tecnología de la Información y Comunicación (TIC). Fundada en 1969 en Oviedo, donde mantiene su sede central, en la actualidad cuenta con centros de servicios en Madrid, Barcelona y Vigo, así como con sucursales internacionales en Portugal, Ecuador, Colombia, Bolivia y Costa Rica.
+
+La compañía atesora 50 años de experiencia en la prestación de servicios en las áreas de administración de personal y de nómina, transformación digital, cartografía y catastro, infraestructuras y servicios de IT y desarrollo de software.
+
 * Qué vamos a hacer en este Workshop
 
 Este workshop del foro tecnológico 2021 no está pensado para usuarios avanzados de las tecnologías que aquí veremos, simplemente es una introducción para entender de forma muy sencilla ciertos conceptos que utilizamos en el trabajo que realizamos diariamente. No profundizaremos en aspectos técnicos más allá de los necesarios para este workshop, ya que a nivel de programación hay muchos tutoriales paso a paso sobre cómo utilizar cualquiera de las tecnologías que veremos, incluso un tutorial realizado por los creadores de este workshop quedará disponible para su consulta y descarga por parte de los asistentes.
