@@ -11,7 +11,7 @@ import paho.mqtt.client as mqtt
 
 timestamp = int(time.time())
 
-broker = "vmtest"
+broker = "192.168.56.103"
 port = 9001
 element = "home"
 areas = ["front", "back", "kitchen", "basement", "living"]
