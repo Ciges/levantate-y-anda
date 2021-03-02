@@ -1,4 +1,4 @@
-let host = 'vmtest';
+let host = '192.168.56.103';
 let port = 9001;
 let topic = '#';
 let useTLS = false;
