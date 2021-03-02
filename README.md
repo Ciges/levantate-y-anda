@@ -4,11 +4,11 @@ Repositorio GIT para el WorkShop organizado por Juán José Gómez Vázquez y Jo
 
 Como bravos representantes de la comunidad de Seresco allá vamos, hacha en mano, a mostrar a quien quiera escucharnos, desde la debida distancia evidentemente, algunos de las técnicas que se usan en el día a día de la industria informática.
 
-En este workshop veremos como desplegar rapidamente un entorno de test para probar algunas interesantes tecnologías de actualidad. 
-Usaremos control de versiones con GIT y contenedores docker para crear rápidamente un entorno de pruebas con servicios de mensajería y una web de momnitorización de datos con las que visualizar en tiempo real datos domóticos de un hogar.
+En este workshop veremos como desplegar rápidamente un entorno de test para probar algunas interesantes tecnologías de actualidad. 
+Usaremos control de versiones con GIT y contenedores docker para crear rápidamente un entorno de pruebas con servicios de mensajería y una web de monitorización de datos con las que visualizar en tiempo real datos domóticos de un hogar.
 
 
-## Requisitos previos para la reálización del taller
+## Requisitos previos para la realización del taller
 
 Los asistente deberán instalar el siguiente software, que utilizaremos en el workshop
 - Gestor de máquinas virtuales [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -22,4 +22,4 @@ Y opcionalmente recomendamos
 Una vez instalado VirtualBox descargamos la máquina virtual "Ubuntu Server 1804 don docker" desde este [enlace](https://mega.nz/file/hPwkGBgA#kvE1fhyH0XCpQw18ffx7OoB_ExOLog7SExwemlfZAL0) (es un fichero muy grande, de más de 1Gb) y la importamos en VirtualBox.
 
 
-El software mencionado existe para los sistemas operativos más habituales, excluyendo em MobaxTerm que es una aplicación Windows. Tanto Linux como MacOS tienen instaladas aplicaciones de terminal en el sistema por defecto.
+El software mencionado existe para los sistemas operativos más habituales, excluyendo MobaxTerm que es una aplicación Windows. Tanto Linux como MacOS tienen instaladas aplicaciones de terminal en el sistema por defecto.
