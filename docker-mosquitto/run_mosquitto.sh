@@ -1,3 +1,3 @@
 #!/bin/sh
 #docker pull eclipse-mosquitto
-docker run --name mosquitto -it -d --network host --mount type=bind,source="$PWD/mosquitto",target=/mosquitto eclipse-mosquitto
+docker run --rm --name mosquitto -it --network host --mount type=bind,source="$PWD/mosquitto",target=/mosquitto eclipse-mosquitto
