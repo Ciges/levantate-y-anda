@@ -114,7 +114,7 @@ Es intereante que este contenedor se pueda iniciar cada vez que se arranca la m�
 
 ![iniciar máquina virtual](images/iniciar_maquina_virtual.png?raw=true "Iniciar la máquina virtual")
 
-* Comandos básicos de Docker
+* Comados básicos de Docker
 
 > #### Configurar el Broker -> mosquitto.conf
 
@@ -124,7 +124,7 @@ Creamos el archivo `mosquitto.conf`.
 
 ```conf
 listener 1883 0.0.0.0
-allow_anonymous true
+allow_anonymous
 ```
 
 > #### Iniciar Broker 
